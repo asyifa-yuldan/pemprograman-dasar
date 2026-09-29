@@ -1,0 +1,7 @@
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\bin\Debug\diskon_berdasarkan_total_belanja.exe.config
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\bin\Debug\diskon_berdasarkan_total_belanja.exe
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\bin\Debug\diskon_berdasarkan_total_belanja.pdb
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\obj\Debug\diskon_berdasarkan_total_belanja.csproj.AssemblyReference.cache
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\obj\Debug\diskon_berdasarkan_total_belanja.csproj.CoreCompileInputs.cache
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\obj\Debug\diskon_berdasarkan_total_belanja.exe
+D:\unika asyifa f_ x pplg 2\diskon_berdasarkan_total_belanja\diskon_berdasarkan_total_belanja\obj\Debug\diskon_berdasarkan_total_belanja.pdb

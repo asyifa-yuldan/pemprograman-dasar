@@ -1,0 +1,7 @@
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\bin\Debug\bilangan_bulat_positif.exe.config
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\bin\Debug\bilangan_bulat_positif.exe
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\bin\Debug\bilangan_bulat_positif.pdb
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\obj\Debug\bilangan_bulat_positif.csproj.AssemblyReference.cache
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\obj\Debug\bilangan_bulat_positif.csproj.CoreCompileInputs.cache
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\obj\Debug\bilangan_bulat_positif.exe
+D:\unika asyifa f_ x pplg 2\bilangan_bulat_positif\bilangan_bulat_positif\obj\Debug\bilangan_bulat_positif.pdb

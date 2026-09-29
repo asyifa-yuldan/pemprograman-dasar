@@ -1,0 +1,7 @@
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\bin\Debug\kelulusan siswa.exe.config
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\bin\Debug\kelulusan siswa.exe
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\bin\Debug\kelulusan siswa.pdb
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\obj\Debug\kelulusan siswa.csproj.AssemblyReference.cache
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\obj\Debug\kelulusan siswa.csproj.CoreCompileInputs.cache
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\obj\Debug\kelulusan siswa.exe
+D:\unika asyifa f_ x pplg 2\kelulusan siswa\kelulusan siswa\obj\Debug\kelulusan siswa.pdb
