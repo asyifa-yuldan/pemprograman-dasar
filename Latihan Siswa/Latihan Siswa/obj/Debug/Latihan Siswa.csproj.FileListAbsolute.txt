@@ -1,0 +1,7 @@
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\bin\Debug\Latihan Siswa.exe.config
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\bin\Debug\Latihan Siswa.exe
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\bin\Debug\Latihan Siswa.pdb
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\obj\Debug\Latihan Siswa.csproj.AssemblyReference.cache
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\obj\Debug\Latihan Siswa.csproj.CoreCompileInputs.cache
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\obj\Debug\Latihan Siswa.exe
+D:\unika asyifa f_ x pplg 2\Latihan Siswa\Latihan Siswa\obj\Debug\Latihan Siswa.pdb
